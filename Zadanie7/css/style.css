@@ -1,0 +1,93 @@
+body {
+	text-align: justify;
+	font-size: 25px;
+	background-color: rgb(24,24,24);
+	color: rgb(255,128,0);
+}
+h3 {
+	font-size: 30px;
+}
+table {
+	text-align: center;
+	border: dotted white 5px;
+	border-collapse: collapse;
+	width: 85%;
+	margin: auto;
+	margin-top: 30px;
+	font-size: 20px;
+}
+th{
+
+	font-style: oblique;
+	font-weight: bold;
+	border: solid white 5px;
+	border-collapse: collapse;
+}
+tbody td{
+	border: solid white 2px;
+	border-collapse: collapse;
+}
+tfoot td{
+	text-align: center;
+}
+.sql_connection{
+	text-align: left;
+	font-size: 15px;
+}
+.przycisk {
+	margin: 0px;
+	padding: 0px;
+}
+.button{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 10px;
+	color: GhostWhite;
+	text-align: center;
+	font-weight: bold;
+	cursor: pointer;
+}
+.button:hover{
+	color: Gainsboro
+}
+.button.save{
+	border: solid LawnGreen 5px;
+	background-color: LimeGreen;
+}
+.button.save:hover{
+	border: solid DarkGreen 5px;
+	background-color: ForestGreen;
+}
+.button.edit{
+	border: solid DeepSkyBlue 5px;
+	background-color: DodgerBlue;
+}
+.button.edit:hover{
+	border: solid RoyalBlue 5px;
+	background-color: Blue;
+}
+.button.cancel{
+	border: solid DarkGoldenRod 5px;
+	background-color: GoldenRod;
+}
+.button.cancel:hover{
+	border: solid Peru 5px;
+	background-color: Chocolate;
+}
+.button.delete{
+	border: solid OrangeRed 5px;
+	background-color: Red;
+}
+.button.delete:hover{
+	border: solid FireBrick 5px;
+	background-color: Crimson;
+}
+.button.add{
+	border: solid Plum 5px;
+	background-color: MediumPurple;
+}
+.button.add:hover{
+	border: solid DarkOrchid 5px;
+	background-color: Indigo;
+}
