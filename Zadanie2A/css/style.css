@@ -1,0 +1,37 @@
+body {
+	float: center;
+	text-align: justify;
+	font-size: 15px;
+	background-color: rgb(24,24,24);
+	color: rgb(255,128,0);
+}
+h3 {
+	font-size: 30px;
+}
+/* sposób I - class i id */
+.row {
+	display: flex;
+}
+.cell {
+	margin: 5px;
+	padding: 5px;
+	border: double white 10px;
+	border-radius: 10px;
+}
+#single {
+	width: 16.5%;
+}
+#big {
+	width: 66%;
+}
+/* sposób II - hierarchia i zagnieżdżenia znaczników
+div {
+	display: flex;
+}
+div div {
+	margin: 5px;
+	padding: 5px;
+	border: double white 10px;
+	border-radius: 10px;
+}
+*/
