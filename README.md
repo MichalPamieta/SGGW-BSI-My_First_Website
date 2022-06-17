@@ -1,4 +1,4 @@
-# SGGW-BSI-My_First_Website
+# Building websites - My First Website
 Student project using HTML, CSS, JavaScript, Bootstrap and PHP
 
 Strona przygotowana na zajęcia z przedmiotu Budowa Serwisów Internetowych.
